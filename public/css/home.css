@@ -1,0 +1,69 @@
+
+
+.header{
+
+}
+ .btn-secondary:hover{
+  text-decoration: underline;
+}
+
+.carousel-item{
+
+}
+.carousel-inner img {
+    width: 60%;
+    height:800px;
+}
+.carousel-inner{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (prefers-reduced-motion: reduce)
+.carousel-item {
+    transition: 1s;
+}
+.links{
+   text-decoration: none;
+   color: black;
+}
+.links:hover{
+   text-decoration:underline;
+   color: black;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #f8f9fa!important;
+    width: 10%;
+}
+.footer{
+  background-color: #343a40!important;
+}
+.text-muted{
+  text-decoration: none;
+}
+.text-muted:hover{
+  text-decoration: underline;
+}
+/* thypograpy responsive */
+html {
+  font-size: 1rem;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+}
