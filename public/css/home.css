@@ -8,11 +8,19 @@
 }
 
 .carousel-item{
-
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.carousel-control-next{
+  margin-right: 15%;
+}
+.carousel-control-prev{
+  margin-left: 15%;
 }
 .carousel-inner img {
-    width: 60%;
-    height:800px;
+
+    height:400px;
 }
 .carousel-inner{
   margin-left: auto;
@@ -21,7 +29,7 @@
 
 @media (prefers-reduced-motion: reduce)
 .carousel-item {
-    transition: 1s;
+    transition: slide;
 }
 .links{
    text-decoration: none;
