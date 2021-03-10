@@ -29,7 +29,7 @@
 
 @media (prefers-reduced-motion: reduce)
 .carousel-item {
-    transition: slide;
+    transition: slide 0.75;
 }
 .links{
    text-decoration: none;
