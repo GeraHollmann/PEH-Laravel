@@ -26,3 +26,6 @@ Route::get('/pop-up-horario', function () {
 Route::get('/pop-up-mail', function () {
     return view('pop-up-mail');
 });
+
+Route::get('/home', 'HomeController@index')->name('home');
+Auth::routes();

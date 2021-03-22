@@ -133,7 +133,9 @@
               <li><a class="text-muted" href="https://www.google.com/maps/place/Estudio+Hollmann.+Dr.+Juan+Pablo+Hollmann/@-34.7285152,-58.2638858,15z/data=!4m2!3m1!1s0x0:0x9b638f7214b1daa6?sa=X&ved=2ahUKEwjArs3YpYPvAhV7HrkGHeJUCccQ_BIwCnoECCAQBQ">Pte. Peron 468, Quilmes</a></li>
             </ul>
           </div>
+          <h3><a class="text-muted" style="color:grey;" href="/login">¿Usted es el Dr Juan Pablo Hollmann?</a></h3>
         </div>
+
         </footer>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>

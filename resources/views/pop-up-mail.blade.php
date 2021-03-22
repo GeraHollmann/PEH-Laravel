@@ -10,7 +10,7 @@
         <div class="content">
             <div class="content-text" style="text-align:center"> Casilla de correo electrónico: estudiohollmann@yahoo.com.ar
               <br>
-            <div style="text-align:center;" class="content-buttons"><a style="color:black;border-color:black;" href="home" id="close-button">Aceptar</a></div>
+            <div style="text-align:center;" class="content-buttons"><a style="color:black;border-color:black;" href="/" id="close-button">Aceptar</a></div>
         </div>
     </div>
   </body>
