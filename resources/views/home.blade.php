@@ -32,18 +32,18 @@
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="imagenes/estanteria.jpg" class="d-block w-100" alt="...">
+                <img src="imagenes/Frente-estudio.jpeg" class="d-block w-100" alt="...">
                 <br>
                 <div class="carousel-caption d-none d-md-block">
                   <h5 style="color:black;background-color:white;">Estudio Jurídico Hollmann</h5>
-                  <p style="color:black;background-color:white;">El mismo es un estudio con una reconocida trayectoria de mas de 40 años, radicado en la zona de Quilmes. Nos dedicamos especialmente a cuestiones de derecho del trabajo, familia y sucesiones.</p>
+                  <p style="color:black;background-color:white;">El mismo es un estudio con una reconocida trayectoria de mas de 40 años, radicado en la zona de Quilmes.</p>
                 </div>
               </div>
               <div class="carousel-item">
                 <img src="imagenes/sala-de-reuniones-estudio.jpg" class="d-block w-100" alt="...">
                 <br>
                 <div class="carousel-caption d-none d-md-block">
-                  <h5 style="color:black;background-color:white;">Sala de reuniones</h5>
+                  <h5 style="color:black;background-color:white;">Filosifía del estudio</h5>
                   <p style="color:black;background-color:white;">La filosofía del estudio se basa en el respeto del caso, la confidencialidad y la <b><u style="color:black">confianza con el cliente.</u></b></p>
                 </div>
               </div>
@@ -75,6 +75,7 @@
                 <button type="button" class="col-4 col-md btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top">
                   <a id="boton1" class="links" href="http://www.scba.gov.ar/portada/default2014.asp"> PODER JUDICIAL PBA</a>
                 </button>
+
                 <button type="button" class="col-4 col-md btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="right" title="Tooltip on right">
                   <a class="links" href="http://www.infoleg.gob.ar/">LEYES NACIONALES</a>
                 </button>
@@ -90,26 +91,29 @@
               </div>
           </div>
           <br>
-          <br>
           <div class="paginas-interes" style="width:95%;margin-left:auto; margin-right:auto;">
-              <h5 class="display-5">ARTICULOS DE INTERES COMPARTIDOS POR EL DR. HOLLMANN</h5>
-              <br>
+
               <div class="row">
-                <button type="button" class="col-4 col-md btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top">
-                  <a id="boton1" class="links" href="http://www.scba.gov.ar/portada/default2014.asp"> ej1</a>
-                </button>
-                <button type="button" class="col-4 col-md btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="right" title="Tooltip on right">
-                  <a class="links" href="http://www.infoleg.gob.ar/">ej2</a>
-                </button>
-                <button type="button" class="col-4 col-md btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Tooltip on bottom">
-                  <a class="links" href="https://normas.gba.gob.ar/">ej3</a>
-                </button>
-                <button type="button" class="col-4 col-md btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="left" title="Tooltip on left">
-                  <a class="links" href="https://www.diariojudicial.com/">ej4</a>
-                </button>
-                <button type="button" class="col-4 col-md btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="left" title="Tooltip on left">
-                  <a class="links" href="https://www.boletinoficial.gba.gob.ar/">ej5</a>
-                </button>
+                <div class="col-4 col-md">
+                  <h5>Página del poder judicial PBA</h5>
+                  <p>Es un sitio web con información sobre expedientes, organismos, juzgados, direcciones, jurisprudencia e informacion util para los habitantes de la Provinica de Buenos Aires .</p>
+                </div>
+                <div class="col-4 col-md">
+                  <h5>Leyes Nacionales</h5>
+                  <p>Página que contiene todas las leyes, decretos y resoluciones de orden nacional de facil busqueda y siempre actualizada.</p>
+                </div>
+                <div class="col-4 col-md">
+                  <h5>Leyes Provinciales</h5>
+                  <p>Página que contiene todas las leyes, decretos y resoluciones de orden provincial de facil busqueda y siempre actualizada.</p>
+                </div>
+                <div class="col-4 col-md">
+                  <h5>Diario Judicial</h5>
+                  <p>Página con informaciones novedosas sobre casos judiciales actuales, sobre temas de interes general. </p>
+                </div>
+                <div class="col-4 col-md">
+                  <h5>Boletin Oficial PBA</h5>
+                  <p>Página con informacion oficial sobre todos los decretos, leyes y resoluciones de la Provinicia de Buenos Aires y ademas publicaciones con edictos sobre sucesiones, remates, licitaciones y sociedades.</p>
+                </div>
               </div>
           </div>
         </section>
@@ -133,7 +137,6 @@
               <li><a class="text-muted" href="https://www.google.com/maps/place/Estudio+Hollmann.+Dr.+Juan+Pablo+Hollmann/@-34.7285152,-58.2638858,15z/data=!4m2!3m1!1s0x0:0x9b638f7214b1daa6?sa=X&ved=2ahUKEwjArs3YpYPvAhV7HrkGHeJUCccQ_BIwCnoECCAQBQ">Pte. Peron 468, Quilmes</a></li>
             </ul>
           </div>
-          <h3><a class="text-muted" style="color:grey;" href="/login">¿Usted es el Dr Juan Pablo Hollmann?</a></h3>
         </div>
 
         </footer>
