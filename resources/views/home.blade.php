@@ -48,7 +48,7 @@
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="imagenes/despacho.jpg" class="d-block w-100" alt="...">
+                <img src="imagenes/Dr1.jpeg" class="d-block w-100" alt="...">
                 <br>
                 <div class="carousel-caption d-none d-md-block">
                   <h5 style="color:black;background-color:white;">Dr. Juan Pablo Hollmann</h5>
